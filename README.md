@@ -1,2 +1,0 @@
-# pathfinding
-find your way 
